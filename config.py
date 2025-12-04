@@ -3,7 +3,7 @@ Configuration settings for the All Bitcoin Private Key application
 """
 
 # Number of addresses to display per page
-ADDRESSES_PER_PAGE = 5000
+ADDRESSES_PER_PAGE = 2750
 
 # Performance options
 ENABLE_BALANCE_CHECKING = False  # Set to True for balance scanning functionality (disable for faster browsing)
